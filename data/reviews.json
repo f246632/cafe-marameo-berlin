@@ -1,0 +1,26 @@
+{
+  "google_rating": "4.8",
+  "total_reviews": "1549",
+  "restaurant_guru_rating": "4.7",
+  "restaurant_guru_reviews": "73",
+  "reviews": [
+    {
+      "author": "Verified Customer",
+      "rating": 5,
+      "text": "Great coffee and friendly staff. The atmosphere is cozy and welcoming.",
+      "date": "2024"
+    },
+    {
+      "author": "Local Regular",
+      "rating": 5,
+      "text": "Sublime pastry and great coffee. This is my favorite spot in Kreuzberg!",
+      "date": "2024"
+    },
+    {
+      "author": "Berlin Visitor",
+      "rating": 5,
+      "text": "Perfect neighborhood café. The Italian cakes are delicious and the coffee from Passenger Coffee is expertly prepared.",
+      "date": "2024"
+    }
+  ]
+}

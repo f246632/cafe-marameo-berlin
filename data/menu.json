@@ -1,0 +1,58 @@
+{
+  "coffee": [
+    {
+      "name": "Cappuccino",
+      "description": "Classic Italian cappuccino with Passenger Coffee beans"
+    },
+    {
+      "name": "Espresso",
+      "description": "Rich, expertly pulled espresso"
+    },
+    {
+      "name": "Latte",
+      "description": "Smooth milk coffee"
+    },
+    {
+      "name": "Filter Coffee",
+      "description": "Hand-brewed filter coffee"
+    }
+  ],
+  "food": [
+    {
+      "name": "Quiche",
+      "description": "Freshly baked daily quiche"
+    },
+    {
+      "name": "Pies",
+      "description": "Homemade Italian pies"
+    },
+    {
+      "name": "Lasagna",
+      "description": "Traditional Italian lasagna"
+    },
+    {
+      "name": "Berliner",
+      "description": "Classic German pastry"
+    }
+  ],
+  "desserts": [
+    {
+      "name": "Fruitcake",
+      "description": "Italian-style fruitcake"
+    },
+    {
+      "name": "Ice Cream",
+      "description": "Selection of homemade ice cream"
+    },
+    {
+      "name": "Italian Cakes",
+      "description": "Various Italian cakes and pastries"
+    }
+  ],
+  "specialties": [
+    "Passenger Coffee beans",
+    "Italian brother and sister run",
+    "Homemade pastries",
+    "Cozy neighborhood atmosphere"
+  ]
+}
